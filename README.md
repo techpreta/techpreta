@@ -1,7 +1,5 @@
-### Olá! Eu sou a Natália Granato 👋! <div style="text-align: right"> <img src="https://jojoee.jojoee.com/api/utcnow?refresh" width="120" height="20">
-</div>
-
--🔭 Atualmente, estou trabalhando com suporte à clientes de Contas Digitais.
+### Olá! Eu sou a Natália Granato 👋! 
+- 🔭 Atualmente, estou trabalhando com suporte à clientes de Contas Digitais.
 - 🌱 Atualmente estou aprendendo Containers.
 - 🤔 Estou procurando ajuda com infraestrutura em código.
 - 📫 Você pode encontrar minhas redes sociais em: https://linktr.ee/nataliagranato
@@ -32,7 +30,6 @@ Andando.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
