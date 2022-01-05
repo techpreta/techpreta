@@ -8,7 +8,6 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=techpreta)](https://github.com/anuraghazra/github-readme-stats) <br>
 
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=envoy-vc&layout=compact)](https://github.com/Envoy-VC/Envoy-VC)
 
 <br>
 
