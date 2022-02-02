@@ -1,6 +1,5 @@
 ### Olá! Eu sou a Natália Granato 👋! 
-- 🔭 Atualmente, estou trabalhando com suporte à clientes de Contas Digitais.
-- 🌱 Atualmente estou aprendendo Containers.
+- 🌱 Aprendendo sobre Containers e Cloud Computing.
 - 🤔 Estou procurando ajuda com infraestrutura em código.
 - 📫 Você pode encontrar minhas redes sociais em: https://linktr.ee/nataliagranato
 - 😄 Pronomes: Ela/Dela
